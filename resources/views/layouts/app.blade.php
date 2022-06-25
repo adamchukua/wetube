@@ -39,7 +39,7 @@
 
                 <!-- Right Side Of Navbar -->
                 <ul class="navbar-nav ms-auto align-items-center">
-                    <a href="/rooms/create" class="navbar-text">Створити кімнату</a>
+                    <a href="/room/create" class="navbar-text">Створити кімнату</a>
                 </ul>
             </div>
         </div>
